@@ -1,2 +1,2 @@
 I fetched the corona virus case datas of the Turkey from Ministry of Health of the Republic of Turkey.
-While i was studying these datas were accessible, however we cannot access now. They removed it.
+While i was studying, these datas were accessible, however we cannot access now. They removed it.
